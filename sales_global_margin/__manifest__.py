@@ -2,7 +2,7 @@
 # See LICENSE-DOC file for full copyright and licensing details
 {
     'name': 'Sales Global Margin',
-    'summary': 'Sales Profit Margin',
+    'summary': 'Sales Global Margin',
     'version': '13.0.1.0.0',
     'category': 'Sales',
     'website': 'https://www.abrus.digital/',
