@@ -7,7 +7,7 @@
     'category': 'Sales',
     'website': 'https://www.abrus.digital/',
     'description': """Sales Profit Margin.""",
-    'images': ['static/description/banner.jpg'],
+    'images': ['static/description/banner.png'],
     'author': 'Abrus Digital',
     'company': 'Abrus Digital',
     'maintainer': 'Abrus Digital',
